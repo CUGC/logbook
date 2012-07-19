@@ -1,0 +1,10 @@
+## De-Tucker-ification
+
+Removal of all things Scott Tucker from the main GC website.
+
+1. Moved bio on `/meet-the-director.html` to below John's and edited content.
+2. Updated `/past-directors.html` to include John and added a final year to Tucker's bio.
+
+That's all I could find.
+
+-Parker
